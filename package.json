@@ -1,6 +1,10 @@
 {
   "name": "Grocery",
   "private": true,
+  "engine": {
+    "node": "~8.9.1",
+    "npm": "~5.5.1"
+  },
   "scripts": {
     "start": "meteor run"
   },
